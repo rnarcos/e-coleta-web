@@ -1,11 +1,11 @@
 const reducers = {
   // REDUCER_NAME: REDUCER,
-};
+}
 
 const runSagas = (sagaMiddleware) => {
   [
     // SAGA,
-  ].forEach(sagaMiddleware.run);
+  ].forEach(sagaMiddleware.run)
 }
 
-export { reducers, runSagas };
+export { reducers, runSagas }

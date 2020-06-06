@@ -1,1 +1,1 @@
-export { withTitle } from './with-title';
+export { withTitle } from './with-title'

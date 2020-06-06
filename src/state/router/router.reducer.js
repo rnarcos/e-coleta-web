@@ -1,5 +1,5 @@
-import { connectRouter } from 'connected-react-router';
+import { connectRouter } from 'connected-react-router'
 
-import history from '../../navigation/history.js';
+import history from '../../navigation/history'
 
-export const RouterReducer = connectRouter(history);
+export const RouterReducer = connectRouter(history)

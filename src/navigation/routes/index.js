@@ -4,4 +4,4 @@ export default {
   //   url: ROUTE_URL,
   //   title: ROUTE_TITLE,
   // }
-};
+}
